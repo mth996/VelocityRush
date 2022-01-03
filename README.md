@@ -38,3 +38,5 @@ GameVariable.cs will store the last checkpoint transform.position value. Checkpo
 Health bar decreases when hit by an emp and changes from green to yellow to red respectively.
 12. Health Powerup
 Health powerup is used to  delete the game object (Health powerup) when the  car collider comes in contact with a game object (Health powerup) and the healing is activated due to the function HealthRegeneration() which gives the car full health.
+
+Trailer Link: https://drive.google.com/file/d/1UXttvCqBVvpLx0fnxxnVZ_Qx0T7Ea5Bs/view?usp=sharing
