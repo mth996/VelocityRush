@@ -1,6 +1,7 @@
 # VelocityRush
 A multiplayer racing arcade game
-Code description
+Code description:
+
 The Network Manager Script works on the multiplayer functions and features in the game . First is the script is making a public variable to attach prefab, text and game objects. We can create a room, we need to connect to a photon server. After the game starts the player joins or creates a room in multiplayer which directly connects to the photon server and the player successfully joins or creates a room which will lead to the map selection. Here the player can choose any 4 maps of the game and the player joins other rooms or can go back and create a room so the player's friends can join his room. After joining can click ready and ready tick will choose and then can start the game.
 4.Player Setup.cs              
 The player setup determines which codes and game objects to turn on for the player and off it if it’s for the opponent  so that the players in multiplayers do not control each other’s cars. For example, CarController script will be activated if its for the player and it will be deactivated if it is for the opponent.
