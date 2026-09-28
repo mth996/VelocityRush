@@ -1,7 +1,7 @@
 # VelocityRush
 
 <p align="center">
-  <img src="images/GamePoster.jpg" alt="VelocityRush game poster" width="100%" />
+  <img src="images/Poster%20Velocity%20rush.png" alt="VelocityRush game poster" width="100%" />
 </p>
 
 **VelocityRush** is a Unity multiplayer arcade racing game built around competitive racing, vehicle combat, power-ups, checkpoints, and networked player sessions.
