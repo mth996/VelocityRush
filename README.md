@@ -1,8 +1,29 @@
 # VelocityRush
 
+<p align="center">
+  <img src="images/GamePoster.jpg" alt="VelocityRush game poster" width="100%" />
+</p>
+
 **VelocityRush** is a Unity multiplayer arcade racing game built around competitive racing, vehicle combat, power-ups, checkpoints, and networked player sessions.
 
 This repository is presented as a source-code portfolio highlighting multiplayer and gameplay programming in C#.
+
+## Gameplay Screenshots
+
+<table>
+  <tr>
+    <td width="50%"><img src="images/velocityrush_gameplay_1.jpg" alt="VelocityRush gameplay screenshot 1" /></td>
+    <td width="50%"><img src="images/velocityrush_gameplay_2.jpg" alt="VelocityRush gameplay screenshot 2" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="images/velocityrush_gameplay_3.jpg" alt="VelocityRush gameplay screenshot 3" /></td>
+    <td width="50%"><img src="images/velocityrush_gameplay_4.jpg" alt="VelocityRush gameplay screenshot 4" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="images/velocityrush_gameplay_5.jpg" alt="VelocityRush gameplay screenshot 5" /></td>
+    <td width="50%"><img src="images/velocityrush_gameplay_6.jpg" alt="VelocityRush gameplay screenshot 6" /></td>
+  </tr>
+</table>
 
 ## Technical Highlights
 
