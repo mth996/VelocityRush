@@ -12,16 +12,16 @@ This repository is presented as a source-code portfolio highlighting multiplayer
 
 <table>
   <tr>
-    <td width="50%"><img src="images/velocityrush_gameplay_1.jpg" alt="VelocityRush gameplay screenshot 1" /></td>
-    <td width="50%"><img src="images/velocityrush_gameplay_2.jpg" alt="VelocityRush gameplay screenshot 2" /></td>
+    <td width="50%" align="center"><img src="images/velocityrush_gameplay_1.jpg" alt="VelocityRush gameplay screenshot 1" /><br><sub><b>Race Gameplay</b> — In-game driving and track environment.</sub></td>
+    <td width="50%" align="center"><img src="images/velocityrush_gameplay_2.jpg" alt="VelocityRush gameplay screenshot 2" /><br><sub><b>Competitive Racing</b> — Vehicle-to-vehicle racing gameplay.</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="images/velocityrush_gameplay_3.jpg" alt="VelocityRush gameplay screenshot 3" /></td>
-    <td width="50%"><img src="images/velocityrush_gameplay_4.jpg" alt="VelocityRush gameplay screenshot 4" /></td>
+    <td width="50%" align="center"><img src="images/velocityrush_gameplay_3.jpg" alt="VelocityRush gameplay screenshot 3" /><br><sub><b>Track Action</b> — Arcade racing from the player perspective.</sub></td>
+    <td width="50%" align="center"><img src="images/velocityrush_gameplay_4.jpg" alt="VelocityRush gameplay screenshot 4" /><br><sub><b>Race Environment</b> — Gameplay showcasing the track and driving experience.</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="images/velocityrush_gameplay_5.jpg" alt="VelocityRush gameplay screenshot 5" /></td>
-    <td width="50%"><img src="images/velocityrush_gameplay_6.jpg" alt="VelocityRush gameplay screenshot 6" /></td>
+    <td width="50%" align="center"><img src="images/velocityrush_gameplay_5.jpg" alt="VelocityRush gameplay screenshot 5" /><br><sub><b>Vehicle Gameplay</b> — Real-time racing and vehicle control.</sub></td>
+    <td width="50%" align="center"><img src="images/velocityrush_gameplay_6.jpg" alt="VelocityRush gameplay screenshot 6" /><br><sub><b>VelocityRush in Action</b> — Gameplay captured from the project walkthrough.</sub></td>
   </tr>
 </table>
 
